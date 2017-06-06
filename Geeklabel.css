@@ -1,0 +1,157 @@
+html, body, cover{
+    height:100%
+}
+#Home{padding-bottom: 43px;
+}
+#geekLabel{
+    padding: 281px 0 0 0;
+}
+.img-responsive {
+    margin: 0 auto;
+    width: 261px;
+    height: 137px;
+}
+.cover {
+    display: table;
+    width: 100%;
+    min-height: 100%;
+    background: #D83454;
+}
+.cover-text{
+    text-align: center;
+    color:white;
+    display: table-cell;
+    vertical-align: middle;
+}
+.cover-text h2{
+    margin:0;
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px 380px;
+}
+.glyphicon-menu-down{
+    color: white;
+    padding: 10px 0;
+    font-size: 30px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px; 
+    border: 1px solid white;
+}
+/*-----------------------------------------*/
+
+#firstPart{padding-top:148px;
+    background: #F1F2F2;
+}
+#firstPart .img-responsive {
+    width: 451px;
+    height: 291px;
+}
+#firstPart h2{
+    padding: 80px 0 25px 0;
+}
+#firstPart .glyphicon-menu-down{
+    color: white;
+    padding: 13px 0;
+    font-size: 18px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px; 
+    border: 3px solid white;
+    background: #D83454;
+}
+/*-----------------------------------------*/
+
+#secondPart{padding-top:170px;
+    background: #F1F2F2;
+}
+#secondPart .img-responsive {
+    width: 451px;
+    height: 291px;
+}
+#secondPart h2{
+    padding: 80px 0 25px 0;
+}
+#secondPart .glyphicon-menu-down{
+    color: white;
+    padding: 13px 0;
+    font-size: 18px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px; 
+    border: 3px solid white;
+    background: #D83454;
+}
+
+/*-----------------------------------------*/
+
+#thirdPart{padding:170px 0 42px 0;
+    background: #F1F2F2;
+}
+#thirdPart .img-responsive {
+    width: 451px;
+    height: 291px;
+}
+#thirdPart h2{
+    padding: 80px 0 25px 0;
+}
+#thirdPart .glyphicon-menu-down{
+    color: white;
+    padding: 13px 0;
+    font-size: 18px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px; 
+    border: 3px solid white;
+    background: #D83454;
+}
+span{color:#D83454}
+
+/*-----------------------------------------*/
+#title{padding: 0 0 115px 0;
+    font-size:64px;}
+
+#service{
+    padding: 75px 0 44px 0;
+}
+#service img{
+    width:187px;
+    height:187px;
+}
+h4{
+    padding-bottom: 107px;
+}
+#service .glyphicon-menu-down{
+    color: black;
+    padding: 15px 0;
+    font-size: 18px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px; 
+    border: 2px solid black;
+}
+
+
+/*-----------------------------------------*/
+
+#client{
+    padding: 75px 0 44px 0;
+    background-color: #F1F2F2}
+
+#client img{
+    width: 180px;
+    height: 100px;
+}
+
+ #mapkit-6533 {
+        height:400px;
+        width:600px;
+    }
+
+
+
+
+
+
+
